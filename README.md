@@ -62,4 +62,4 @@ call npm start
 ## 📌 Notes
 
 - Customize each script with the correct repository URL and commands.
-- Ensure the batch files have proper permissions and are executed in a
+- Ensure the batch files have proper permissions and are executed in a secure environment.
