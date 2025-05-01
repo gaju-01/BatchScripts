@@ -11,8 +11,8 @@ git clone https://github.com/gaju-01/OrganizationService.git
 
 
 :: Enter into specific services to start up the respective maven apps
-start cmd.exe /k "cd LicenseConfigurationService && mvn spring-boot:run"
-timeout /t 20
-start cmd.exe /k "cd LicenseDiscoveryService && mvn spring-boot:run"
-start cmd.exe /k "cd OrganizationService && mvn spring-boot:run"
-start cmd.exe /k "cd LicensingService && mvn spring-boot:run"
+start cmd.exe /k "cd LicenseConfigurationService && mvn clean install && mvn spring-boot:run"
+timeout /t 30
+start cmd.exe /k "cd LicenseDiscoveryService && mvn clean install && mvn spring-boot:run"
+start cmd.exe /k "cd OrganizationService && mvn clean install && mvn spring-boot:run"
+start cmd.exe /k "cd LicensingService && mvn clean install && mvn spring-boot:run"
