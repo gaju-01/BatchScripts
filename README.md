@@ -63,3 +63,7 @@ call npm start
 
 - Customize each script with the correct repository URL and commands.
 - Ensure the batch files have proper permissions and are executed in a secure environment.
+
+## Screeshot of Maven App Running in Command Prompt
+![SmartCloner](https://github.com/user-attachments/assets/46a608b0-b1ba-49e4-8697-ede73656d00a)
+
