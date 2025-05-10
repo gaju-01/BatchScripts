@@ -15,15 +15,6 @@ MyWebApp.cmd       # Automates setup and run for the 'MyWebApp' project
 MyAPIService.cmd   # Automates setup and run for 'MyAPIService'
 ```
 
-## ⚙️ Requirements
-
-Make sure the following are installed and available in your system `PATH`:
-
-- **Git**
-- **Java (JDK 8/11/17 depending on project)**
-- **Maven**
-- **Node.js & npm** *(for frontend/web apps)*
-
 ## 🚀 Usage
 
 1. Clone this repository or download the `.cmd` files directly.
